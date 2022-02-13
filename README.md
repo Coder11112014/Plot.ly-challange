@@ -40,5 +40,5 @@ Additionally, you are welcome to create any layout that you would like for your 
 
 ## Deployment
 
-* Deployed my app to a free static page hosting  GitHub Pages. the url to my web page: https://github.com/Coder11112014/Belly-Button-Biodiversity
+* Deployed my app to a free static page hosting  GitHub Pages. the url to my web page:  https://coder11112014.github.io/Belly-Button-Biodiversity/
 
